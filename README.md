@@ -43,11 +43,21 @@
 &emsp;
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
-![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
+![MUI](https://img.shields.io/badge/-MUI-000?&logo=MUI)
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-![Bootstrap](https://img.shields.io/badge/-bootstrap-000?&logo=bootstrap)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
+
+### Backend development:
+&emsp;
+![Node.js](https://img.shields.io/badge/-Node%2Ejs-000?&logo=Node%2Ejs)
+
+### Desktop development:
+&emsp;
+![.NET Framework](https://img.shields.io/badge/-%2ENET%20Framework-000?&logo=dotnet)
+![DevExpress](https://img.shields.io/badge/-DevExpress-000?&logo=DevExpress)
+![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)
 
 ### Misc tools:
 &emsp;
@@ -58,6 +68,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-000?&logo=Insomnia)
+
 <!--
 ### Services & Frameworks: 
 &emsp;
