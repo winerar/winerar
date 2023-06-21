@@ -22,7 +22,10 @@
 
 &emsp;
 <a href="https://www.linkedin.com/in/alexander-karachevtsev/">
-    ![Linkedin: alexander-karachevtsev](https://img.shields.io/badge/-Alexander%20Karachevtsev-blue?style=flat-square&logo=Linkedin&logoColor=white)
+    ![Linkedin: alexander-karachevtsev](https://img.shields.io/badge/-Alexander%20Karachevtsev-blue?style=flat-rounded&logo=Linkedin&logoColor=white)
+</a>
+<a href="https://t.me/winerar">
+    ![Telegram: winerar](https://img.shields.io/badge/-winerar-blue?style=flat-rounded&logo=Telegram&logoColor=white)
 </a>
 <a href="https://github.com/winerar">
     ![GitHub: winerar](https://img.shields.io/github/followers/winerar?label=follow&style=social)
