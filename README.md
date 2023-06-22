@@ -9,7 +9,7 @@
 -------------------
 &emsp;
 
-- 🔭 I’m currently working on small but useful project based on React+Node.js+MongoDB. 
+- 🔭 I’m currently working on small but useful project based on MERN. 
 - 🌱 I’m currently learning **React, Node.js and ASP.NET**
 - 💬 Ask me about **C#, JS and whatever you want**
 - ⚡ Fun fact: I have about 5 years of teaching schoolchildren programming
