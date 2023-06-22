@@ -55,6 +55,7 @@
 ### Backend development:
 &emsp;
 ![Node.js](https://img.shields.io/badge/-Node%2Ejs-000?&logo=Node%2Ejs)
+![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
 
 ### Desktop development:
 &emsp;
