@@ -27,6 +27,12 @@
 <a href="https://t.me/winerar">
     ![Telegram: winerar](https://img.shields.io/badge/-winerar-blue?style=flat-rounded&logo=Telegram&logoColor=white)
 </a>
+<a href="https://ru.hexlet.io/u/winerar">
+    ![Hexlet: winerar](https://img.shields.io/badge/-winerar-white?style=flat-rounded&logo=Hexlet&logoColor=black)
+</a>
+<a href="https://www.hackerrank.com/m_winerar">
+    ![HackerRank: winerar](https://img.shields.io/badge/-m_winerar-2EC866?style=flat-rounded&logo=HackerRank&logoColor=white)
+</a>
 <a href="https://github.com/winerar">
     ![GitHub: winerar](https://img.shields.io/github/followers/winerar?label=follow&style=social)
 </a>
