@@ -1,4 +1,4 @@
-# Alexander Karachevtsev, *.NET | React | Node.js Developer*
+# Alexander Karachevtsev, *Frontend Developer*
 
 
 -------------------
