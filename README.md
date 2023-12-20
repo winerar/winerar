@@ -3,7 +3,8 @@
 
 -------------------
 &emsp;
-<h3 align="left">Hi 👋, I'm Alexander, developer based in Yerevan.</h3>
+<h3 align="left">Hi 👋, I'm Alexander, frontend developer based in Yerevan.</h3>
+My portfolio: <a href="https://winerar.github.io/portfolio/">click</a>
 &emsp;
 
 -------------------
