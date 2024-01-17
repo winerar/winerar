@@ -4,7 +4,7 @@
 -------------------
 &emsp;
 <h3 align="left">Hi 👋, I'm Alexander, frontend developer based in Yerevan.</h3>
-My portfolio: <a href="https://winerar.github.io/portfolio/">click</a>
+My portfolio: <a href="https://winerar.github.io">click</a>
 &emsp;
 
 -------------------
