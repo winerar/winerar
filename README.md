@@ -6,6 +6,7 @@ Currently, **React Web Engineer at [Martspec LLC](https://martspec.com)**
 
 ### Me around the web
 
+&emsp;
 <a href="https://www.linkedin.com/in/alexander-karachevtsev/">
     ![Linkedin: alexander-karachevtsev](https://img.shields.io/badge/-Alexander%20Karachevtsev-blue?style=flat-rounded&logo=Linkedin&logoColor=white)
 </a>
@@ -21,6 +22,8 @@ Currently, **React Web Engineer at [Martspec LLC](https://martspec.com)**
 <a href="https://github.com/winerar">
     ![GitHub: winerar](https://img.shields.io/github/followers/winerar?label=follow&style=social)
 </a>
+
+&emsp;
 
 ### My GitHub Stats and Activity
 
